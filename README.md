@@ -1,0 +1,2 @@
+# Colour-Game
+A web based game for children.  When the game is started a grid of colours are displayed, a button will be labelled with the name of one of the colours, when a user clicks the correct colour a new colour label is displayed on the button.  The game lasts 60 seconds and if the user has beaten the high score they are prompted to enter their name to the scoreboard.  The user can get a hint be clicking the colour button, this hint will place a yellow border around all corresponding colours in the grid.
